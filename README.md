@@ -1,4 +1,4 @@
 # web.resume
 
 ## Live website
-https://github.com/udaychandp/web.resume
+https://udaychandp.github.io/web.resume/
